@@ -2,4 +2,6 @@
 
 Send a robot dog across the site to check every ladder and deliver the results directly as live data.
 
-**Robot:** Quadruped robot
+**Robot:** Unitree B2
+
+**Data:** [hackathon-2026/challenges/site-safety-patrol](https://huggingface.co/datasets/ctrl-rwth/hackathon-2026/tree/main/challenges/site-safety-patrol) on Hugging Face
