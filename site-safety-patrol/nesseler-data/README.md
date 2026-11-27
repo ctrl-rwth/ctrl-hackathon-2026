@@ -1,6 +1,6 @@
 # Ladder data from nesseler
 
-Material from nesseler for Site Safety Patrol: the ladder checklist their protocol is based on, and photos of real ladders on their sites.
+Material from nesseler for Site Safety Patrol: the ladder checklist their protocol is based on, photos of real ladders on their sites, and five more site safety checklists.
 
 ## Ladder checklist
 
@@ -18,6 +18,18 @@ Material from nesseler for Site Safety Patrol: the ladder checklist their protoc
   8. Result: **OK to use** · **repair needed** · **take out of use now**, remarks, next inspection (month/year), date
 
 Your digital protocol should fill in this structure, with a photo as evidence for each point.
+
+## More site safety checklists
+
+Five more checklists nesseler uses on its sites, in [checklists](checklists) (German). They are BG BAU templates from the AMS BAU safety management system. Not the core of the challenge, but useful if your robot should check more than ladders. Names of nesseler staff are removed.
+
+| File | What it checks |
+|---|---|
+| [geruest_pruefprotokoll.pdf](checklists/geruest_pruefprotokoll.pdf) | Scaffold check before use: marking, anchoring, decking, side protection (3 parts), wall gap max. 0.30 m |
+| [staubarme_baustelle.pdf](checklists/staubarme_baustelle.pdf) | Low-dust site: dust extraction on machines, wet cutting, cleaning |
+| [erste_hilfe_brandschutz.pdf](checklists/erste_hilfe_brandschutz.pdf) | First aid and fire protection: notices, first aiders, first-aid kits, extinguishers, escape routes |
+| [einweisung_nachunternehmen.pdf](checklists/einweisung_nachunternehmen.pdf) | Safety briefing for subcontractors |
+| [wirksamkeitskontrolle_gefaehrdungsbeurteilung.pdf](checklists/wirksamkeitskontrolle_gefaehrdungsbeurteilung.pdf) | Check that the risk assessment measures on a building site are really in place |
 
 ## Photos
 
