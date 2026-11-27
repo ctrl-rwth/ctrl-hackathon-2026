@@ -1,0 +1,31 @@
+<!-- Made by make_wall.py: change the numbers there and run it again. -->
+<mujoco model="insulate_the_wall_mockup">
+  <asset>
+    <material name="steel" rgba="0.55 0.57 0.6 1" specular="0.3"/>
+    <material name="board" rgba="0.82 0.74 0.58 1"/>
+    <material name="timber" rgba="0.78 0.6 0.38 1"/>
+  </asset>
+  <worldbody>
+    <body name="mockup">
+      <geom name="table_top" type="box" pos="0.6100 -0.3125 0.3800" size="0.4600 0.7550 0.0200" material="steel"/>
+      <geom name="table_leg0" type="box" pos="1.0300 0.4025 0.1800" size="0.0300 0.0300 0.1800" material="steel"/>
+      <geom name="table_leg1" type="box" pos="1.0300 -1.0275 0.1800" size="0.0300 0.0300 0.1800" material="steel"/>
+      <geom name="table_leg2" type="box" pos="0.1900 0.4025 0.1800" size="0.0300 0.0300 0.1800" material="steel"/>
+      <geom name="table_leg3" type="box" pos="0.1900 -1.0275 0.1800" size="0.0300 0.0300 0.1800" material="steel"/>
+      <geom name="board" type="box" pos="0.6100 -0.3125 0.4075" size="0.3600 0.6550 0.0075" material="board"/>
+      <geom name="stud0" type="box" pos="0.6100 0.3125 0.4950" size="0.3000 0.0300 0.0800" material="timber"/>
+      <geom name="stud1" type="box" pos="0.6100 -0.3125 0.4950" size="0.3000 0.0300 0.0800" material="timber"/>
+      <geom name="stud2" type="box" pos="0.6100 -0.9375 0.4950" size="0.3000 0.0300 0.0800" material="timber"/>
+      <geom name="plate_near" type="box" pos="0.2800 -0.3125 0.4950" size="0.0300 0.6550 0.0800" material="timber"/>
+      <geom name="plate_far" type="box" pos="0.9400 -0.3125 0.4950" size="0.0300 0.6550 0.0800" material="timber"/>
+      <site name="bay1" type="box" pos="0.6100 0.0000 0.4950" size="0.3000 0.2825 0.0800" rgba="0 0 0 0" group="5"/>
+      <site name="bay2" type="box" pos="0.6100 -0.6250 0.4950" size="0.3000 0.2825 0.0800" rgba="0 0 0 0" group="5"/>
+    </body>
+    <flexcomp name="batt" type="grid" dim="3" count="7 7 3"
+              spacing="0.0973 0.0938 0.0740"
+              pos="0.6100 0 0.6650" radius="0.006" mass="2.0" rgba="0.95 0.78 0.3 1">
+      <contact condim="3" selfcollide="none" solref="0.01 1"/>
+      <elasticity young="10000" poisson="0.1" damping="0.002"/>
+    </flexcomp>
+  </worldbody>
+</mujoco>

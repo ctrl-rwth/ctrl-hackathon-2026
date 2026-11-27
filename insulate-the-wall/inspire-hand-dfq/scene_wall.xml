@@ -1,0 +1,7 @@
+<mujoco model="g1_inspire_dfq_wall">
+  <!-- G1 with Inspire hands + assembly table, timber-frame wall and a soft insulation batt (made by make_wall.py).
+       The soft batt needs MuJoCo 4 and its "discrete" integrator (pip install -U mujoco). -->
+  <include file="scene.xml"/>
+  <include file="wall.xml"/>
+  <option integrator="discrete" timestep="0.002"/>
+</mujoco>
