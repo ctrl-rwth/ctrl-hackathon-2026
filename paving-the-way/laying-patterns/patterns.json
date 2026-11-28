@@ -1,0 +1,1705 @@
+{
+ "source": "https://kann-bausysteme.de/fileadmin/user_upload/kbs_verlegemuster_rechteckpflaster_2020.pdf",
+ "units": "cm",
+ "axes": "x to the right, y up, origin = bottom-left corner of the sample",
+ "rotation": "0 = long side along x, 90 = long side along y",
+ "patterns": [
+  {
+   "key": "running_bond",
+   "code": "BS M011a",
+   "name_de": "Halbverband",
+   "name_en": "running bond (half bond)",
+   "stones_per_m2": {
+    "20x10": 50
+   },
+   "sample_cm": [
+    110,
+    100
+   ],
+   "stone_count": 50,
+   "repeat_cm": [
+    [
+     -10.0,
+     10.0
+    ],
+    [
+     10.0,
+     10.0
+    ]
+   ],
+   "stones": [
+    {
+     "id": 1,
+     "x": 20.0,
+     "y": 5.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": true
+    },
+    {
+     "id": 2,
+     "x": 40.0,
+     "y": 5.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 3,
+     "x": 60.0,
+     "y": 5.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 4,
+     "x": 80.0,
+     "y": 5.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 5,
+     "x": 100.0,
+     "y": 5.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 6,
+     "x": 10.0,
+     "y": 15.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 7,
+     "x": 30.0,
+     "y": 15.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 8,
+     "x": 50.0,
+     "y": 15.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 9,
+     "x": 70.0,
+     "y": 15.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 10,
+     "x": 90.0,
+     "y": 15.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 11,
+     "x": 20.0,
+     "y": 25.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 12,
+     "x": 40.0,
+     "y": 25.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 13,
+     "x": 60.0,
+     "y": 25.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 14,
+     "x": 80.0,
+     "y": 25.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 15,
+     "x": 100.0,
+     "y": 25.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 16,
+     "x": 10.0,
+     "y": 35.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 17,
+     "x": 30.0,
+     "y": 35.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 18,
+     "x": 50.0,
+     "y": 35.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 19,
+     "x": 70.0,
+     "y": 35.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 20,
+     "x": 90.0,
+     "y": 35.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 21,
+     "x": 20.0,
+     "y": 45.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 22,
+     "x": 40.0,
+     "y": 45.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 23,
+     "x": 60.0,
+     "y": 45.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 24,
+     "x": 80.0,
+     "y": 45.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 25,
+     "x": 100.0,
+     "y": 45.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 26,
+     "x": 10.0,
+     "y": 55.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 27,
+     "x": 30.0,
+     "y": 55.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 28,
+     "x": 50.0,
+     "y": 55.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 29,
+     "x": 70.0,
+     "y": 55.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 30,
+     "x": 90.0,
+     "y": 55.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 31,
+     "x": 20.0,
+     "y": 65.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 32,
+     "x": 40.0,
+     "y": 65.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 33,
+     "x": 60.0,
+     "y": 65.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 34,
+     "x": 80.0,
+     "y": 65.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 35,
+     "x": 100.0,
+     "y": 65.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 36,
+     "x": 10.0,
+     "y": 75.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 37,
+     "x": 30.0,
+     "y": 75.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 38,
+     "x": 50.0,
+     "y": 75.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 39,
+     "x": 70.0,
+     "y": 75.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 40,
+     "x": 90.0,
+     "y": 75.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 41,
+     "x": 20.0,
+     "y": 85.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 42,
+     "x": 40.0,
+     "y": 85.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 43,
+     "x": 60.0,
+     "y": 85.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 44,
+     "x": 80.0,
+     "y": 85.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 45,
+     "x": 100.0,
+     "y": 85.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 46,
+     "x": 10.0,
+     "y": 95.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 47,
+     "x": 30.0,
+     "y": 95.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 48,
+     "x": 50.0,
+     "y": 95.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 49,
+     "x": 70.0,
+     "y": 95.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 50,
+     "x": 90.0,
+     "y": 95.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    }
+   ]
+  },
+  {
+   "key": "square",
+   "code": "BS M012a",
+   "name_de": "Quadrat",
+   "name_en": "square pattern with 10 x 10 key stones",
+   "stones_per_m2": {
+    "20x10": 48,
+    "10x10": 4
+   },
+   "sample_cm": [
+    100,
+    100
+   ],
+   "stone_count": 52,
+   "repeat_cm": [
+    [
+     0.0,
+     50.0
+    ],
+    [
+     50.0,
+     0.0
+    ]
+   ],
+   "stones": [
+    {
+     "id": 1,
+     "x": 10.0,
+     "y": 5.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": true
+    },
+    {
+     "id": 2,
+     "x": 30.0,
+     "y": 5.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": true
+    },
+    {
+     "id": 3,
+     "x": 45.0,
+     "y": 10.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": true
+    },
+    {
+     "id": 4,
+     "x": 60.0,
+     "y": 5.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 5,
+     "x": 80.0,
+     "y": 5.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 6,
+     "x": 95.0,
+     "y": 10.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 7,
+     "x": 5.0,
+     "y": 20.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": true
+    },
+    {
+     "id": 8,
+     "x": 20.0,
+     "y": 15.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": true
+    },
+    {
+     "id": 9,
+     "x": 35.0,
+     "y": 20.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": true
+    },
+    {
+     "id": 10,
+     "x": 55.0,
+     "y": 20.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 11,
+     "x": 70.0,
+     "y": 15.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 12,
+     "x": 85.0,
+     "y": 20.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 13,
+     "x": 15.0,
+     "y": 30.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": true
+    },
+    {
+     "id": 14,
+     "x": 25.0,
+     "y": 25.0,
+     "size": "10x10",
+     "rotation": 0,
+     "white_on_sheet": true
+    },
+    {
+     "id": 15,
+     "x": 45.0,
+     "y": 30.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": true
+    },
+    {
+     "id": 16,
+     "x": 65.0,
+     "y": 30.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 17,
+     "x": 75.0,
+     "y": 25.0,
+     "size": "10x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 18,
+     "x": 95.0,
+     "y": 30.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 19,
+     "x": 5.0,
+     "y": 40.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": true
+    },
+    {
+     "id": 20,
+     "x": 30.0,
+     "y": 35.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": true
+    },
+    {
+     "id": 21,
+     "x": 55.0,
+     "y": 40.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 22,
+     "x": 80.0,
+     "y": 35.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 23,
+     "x": 20.0,
+     "y": 45.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": true
+    },
+    {
+     "id": 24,
+     "x": 40.0,
+     "y": 45.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": true
+    },
+    {
+     "id": 25,
+     "x": 70.0,
+     "y": 45.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 26,
+     "x": 90.0,
+     "y": 45.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 27,
+     "x": 10.0,
+     "y": 55.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 28,
+     "x": 30.0,
+     "y": 55.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 29,
+     "x": 45.0,
+     "y": 60.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 30,
+     "x": 60.0,
+     "y": 55.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 31,
+     "x": 80.0,
+     "y": 55.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 32,
+     "x": 95.0,
+     "y": 60.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 33,
+     "x": 5.0,
+     "y": 70.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 34,
+     "x": 20.0,
+     "y": 65.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 35,
+     "x": 35.0,
+     "y": 70.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 36,
+     "x": 55.0,
+     "y": 70.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 37,
+     "x": 70.0,
+     "y": 65.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 38,
+     "x": 85.0,
+     "y": 70.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 39,
+     "x": 15.0,
+     "y": 80.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 40,
+     "x": 25.0,
+     "y": 75.0,
+     "size": "10x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 41,
+     "x": 45.0,
+     "y": 80.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 42,
+     "x": 65.0,
+     "y": 80.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 43,
+     "x": 75.0,
+     "y": 75.0,
+     "size": "10x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 44,
+     "x": 95.0,
+     "y": 80.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 45,
+     "x": 5.0,
+     "y": 90.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 46,
+     "x": 30.0,
+     "y": 85.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 47,
+     "x": 55.0,
+     "y": 90.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 48,
+     "x": 80.0,
+     "y": 85.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 49,
+     "x": 20.0,
+     "y": 95.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 50,
+     "x": 40.0,
+     "y": 95.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 51,
+     "x": 70.0,
+     "y": 95.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 52,
+     "x": 90.0,
+     "y": 95.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    }
+   ]
+  },
+  {
+   "key": "herringbone",
+   "code": "BS M013a",
+   "name_de": "Fischgrät",
+   "name_en": "herringbone",
+   "stones_per_m2": {
+    "20x10": 50
+   },
+   "sample_cm": [
+    110,
+    100
+   ],
+   "stone_count": 47,
+   "repeat_cm": [
+    [
+     10.0,
+     10.0
+    ],
+    [
+     -20.0,
+     20.0
+    ]
+   ],
+   "stones": [
+    {
+     "id": 1,
+     "x": 10.0,
+     "y": 5.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": true
+    },
+    {
+     "id": 2,
+     "x": 35.0,
+     "y": 10.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 3,
+     "x": 50.0,
+     "y": 5.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 4,
+     "x": 75.0,
+     "y": 10.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 5,
+     "x": 90.0,
+     "y": 5.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 6,
+     "x": 5.0,
+     "y": 20.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": true
+    },
+    {
+     "id": 7,
+     "x": 20.0,
+     "y": 15.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 8,
+     "x": 45.0,
+     "y": 20.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 9,
+     "x": 60.0,
+     "y": 15.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 10,
+     "x": 85.0,
+     "y": 20.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 11,
+     "x": 100.0,
+     "y": 15.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 12,
+     "x": 15.0,
+     "y": 30.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 13,
+     "x": 30.0,
+     "y": 25.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 14,
+     "x": 55.0,
+     "y": 30.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 15,
+     "x": 70.0,
+     "y": 25.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 16,
+     "x": 95.0,
+     "y": 30.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 17,
+     "x": 25.0,
+     "y": 40.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 18,
+     "x": 40.0,
+     "y": 35.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 19,
+     "x": 65.0,
+     "y": 40.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 20,
+     "x": 80.0,
+     "y": 35.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 21,
+     "x": 10.0,
+     "y": 45.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 22,
+     "x": 35.0,
+     "y": 50.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 23,
+     "x": 50.0,
+     "y": 45.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 24,
+     "x": 75.0,
+     "y": 50.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 25,
+     "x": 90.0,
+     "y": 45.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 26,
+     "x": 5.0,
+     "y": 60.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 27,
+     "x": 20.0,
+     "y": 55.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 28,
+     "x": 45.0,
+     "y": 60.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 29,
+     "x": 60.0,
+     "y": 55.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 30,
+     "x": 85.0,
+     "y": 60.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 31,
+     "x": 100.0,
+     "y": 55.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 32,
+     "x": 15.0,
+     "y": 70.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 33,
+     "x": 30.0,
+     "y": 65.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 34,
+     "x": 55.0,
+     "y": 70.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 35,
+     "x": 70.0,
+     "y": 65.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 36,
+     "x": 95.0,
+     "y": 70.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 37,
+     "x": 25.0,
+     "y": 80.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 38,
+     "x": 40.0,
+     "y": 75.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 39,
+     "x": 65.0,
+     "y": 80.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 40,
+     "x": 80.0,
+     "y": 75.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 41,
+     "x": 10.0,
+     "y": 85.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 42,
+     "x": 35.0,
+     "y": 90.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 43,
+     "x": 50.0,
+     "y": 85.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 44,
+     "x": 75.0,
+     "y": 90.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 45,
+     "x": 90.0,
+     "y": 85.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 46,
+     "x": 20.0,
+     "y": 95.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 47,
+     "x": 60.0,
+     "y": 95.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    }
+   ]
+  },
+  {
+   "key": "parquet",
+   "code": "BS M014a",
+   "name_de": "Parkett",
+   "name_en": "parquet (basket weave)",
+   "stones_per_m2": {
+    "20x10": 50
+   },
+   "sample_cm": [
+    100,
+    100
+   ],
+   "stone_count": 50,
+   "repeat_cm": [
+    [
+     20.0,
+     20.0
+    ],
+    [
+     -20.0,
+     20.0
+    ]
+   ],
+   "stones": [
+    {
+     "id": 1,
+     "x": 10.0,
+     "y": 5.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": true
+    },
+    {
+     "id": 2,
+     "x": 25.0,
+     "y": 10.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 3,
+     "x": 35.0,
+     "y": 10.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 4,
+     "x": 50.0,
+     "y": 5.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 5,
+     "x": 65.0,
+     "y": 10.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 6,
+     "x": 75.0,
+     "y": 10.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 7,
+     "x": 90.0,
+     "y": 5.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 8,
+     "x": 10.0,
+     "y": 15.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": true
+    },
+    {
+     "id": 9,
+     "x": 50.0,
+     "y": 15.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 10,
+     "x": 90.0,
+     "y": 15.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 11,
+     "x": 5.0,
+     "y": 30.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 12,
+     "x": 15.0,
+     "y": 30.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 13,
+     "x": 30.0,
+     "y": 25.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 14,
+     "x": 45.0,
+     "y": 30.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 15,
+     "x": 55.0,
+     "y": 30.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 16,
+     "x": 70.0,
+     "y": 25.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 17,
+     "x": 85.0,
+     "y": 30.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 18,
+     "x": 95.0,
+     "y": 30.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 19,
+     "x": 30.0,
+     "y": 35.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 20,
+     "x": 70.0,
+     "y": 35.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 21,
+     "x": 10.0,
+     "y": 45.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 22,
+     "x": 25.0,
+     "y": 50.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 23,
+     "x": 35.0,
+     "y": 50.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 24,
+     "x": 50.0,
+     "y": 45.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 25,
+     "x": 65.0,
+     "y": 50.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 26,
+     "x": 75.0,
+     "y": 50.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 27,
+     "x": 90.0,
+     "y": 45.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 28,
+     "x": 10.0,
+     "y": 55.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 29,
+     "x": 50.0,
+     "y": 55.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 30,
+     "x": 90.0,
+     "y": 55.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 31,
+     "x": 5.0,
+     "y": 70.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 32,
+     "x": 15.0,
+     "y": 70.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 33,
+     "x": 30.0,
+     "y": 65.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 34,
+     "x": 45.0,
+     "y": 70.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 35,
+     "x": 55.0,
+     "y": 70.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 36,
+     "x": 70.0,
+     "y": 65.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 37,
+     "x": 85.0,
+     "y": 70.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 38,
+     "x": 95.0,
+     "y": 70.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 39,
+     "x": 30.0,
+     "y": 75.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 40,
+     "x": 70.0,
+     "y": 75.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 41,
+     "x": 10.0,
+     "y": 85.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 42,
+     "x": 25.0,
+     "y": 90.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 43,
+     "x": 35.0,
+     "y": 90.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 44,
+     "x": 50.0,
+     "y": 85.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 45,
+     "x": 65.0,
+     "y": 90.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 46,
+     "x": 75.0,
+     "y": 90.0,
+     "size": "20x10",
+     "rotation": 90,
+     "white_on_sheet": false
+    },
+    {
+     "id": 47,
+     "x": 90.0,
+     "y": 85.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 48,
+     "x": 10.0,
+     "y": 95.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 49,
+     "x": 50.0,
+     "y": 95.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    },
+    {
+     "id": 50,
+     "x": 90.0,
+     "y": 95.0,
+     "size": "20x10",
+     "rotation": 0,
+     "white_on_sheet": false
+    }
+   ]
+  }
+ ]
+}
